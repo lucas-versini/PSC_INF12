@@ -1,6 +1,6 @@
 # PSC_INF12
 
-# Dufly Romain - Hamza Yassine - Massart Etienne - Pholvichith Richard - Versini Lucas
+# Dufly - Hamza - Massart - Pholvichith - Versini
 
 - Le fichier functions.py contient des fonctions utilisées dans les autres fichiers (notamment pour la création de données pour la tâche LEGO).
 
