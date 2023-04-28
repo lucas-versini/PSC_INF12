@@ -1,5 +1,7 @@
 # PSC_INF12
 
+# Dufly Romain - Hamza Yassine - Massart Etienne - Pholvichith Richard - Versini Lucas
+
 - Le fichier functions.py contient des fonctions utilisées dans les autres fichiers (notamment pour la création de données pour la tâche LEGO).
 
 - Le fichier data_poisoning.py sert à générer un jeu de données empoisonnées, puis à entraîner et tester un modèle tout en enregistrant les résultats dans un fichier.
